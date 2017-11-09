@@ -1,3 +1,7 @@
+---
+title: Manoa Recipes
+---
+
 # Table of contents
 
 * [About Manoa Recipes](#about-manoa-recipes)
