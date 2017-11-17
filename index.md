@@ -1,6 +1,7 @@
 ---
 title: Manoa Recipes
 ---
+<a href="https://github.com/manoarecipes">View on GitHub</a>
 
 # Table of contents
 
