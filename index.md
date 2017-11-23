@@ -10,7 +10,8 @@ title: Manoa Recipes
   * [Goals](#goals)
 * [Development History](#development-history)
   * [Week 1:Website Development](#week-1-website-development)
-  * [Milestone 1:Mockup development, research, and learn meteor
+  * [Milestone 1: Mockups and Collections](#milestone-1-mockups-and-collections)
+  * [Milestone 2: Connecting the Data](#milestone-2-connecting-the-data)
 
 # About Manoa Recipes
 
@@ -50,6 +51,10 @@ Mockups for the following five pages were implemented during M1:
 <img width="200px" src="images/AddRecipe.png"/>
 
 Milestone 1 was implemented as [Manoa Recipes Milestone M1](https://github.com/manoarecipes/manoarecipes/milestone/1)::
+![](images/MI-ThreeColumn.png)
+
+The project was deployed through Galaxy and [may be found here](https://galaxy.meteor.com/app/manoarecipes.meteorapp.com)::
+![](images/Deployment.png)
 
 ## Milestone 2: Connecting the data
 
