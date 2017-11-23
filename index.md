@@ -47,7 +47,7 @@ Mockups for the following five pages were implemented during M1:
 <img width="200px" src="images/ProfilePage.png"/>
 <img width="200px" src="images/EditProfile.png"/>
 <img width="200px" src="images/RecipeDirectory.png"/>
-<img width="200px" src="images/create-recipe.png"/>
+<img width="200px" src="images/AddRecipe.png"/>
 
 Milestone 1 was implemented as [Manoa Recipes Milestone M1(https://github.com/manoarecipes/manoarecipes/milestone/1)::
 
