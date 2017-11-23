@@ -58,11 +58,11 @@ Mockups for the following five pages were implemented during M1:
 
 
 Milestone 1 was implemented as [Manoa Recipes Milestone M1](https://github.com/manoarecipes/manoarecipes/milestone/1)::
-![](images/M1-ThreeColumn.png)
+![][(images/M1-ThreeColumn.png)](https://github.com/manoarecipes/manoarecipes/milestone/1)
 
-Milestone 1 was implemented through Issue Driven Project Management [Manoa Recipes Network Graph](https://github.com/manoarecipes/manoarecipes/network):: ![](images/Graph.png)
+Milestone 1 was implemented through Issue Driven Project Management [Manoa Recipes Network Graph](https://github.com/manoarecipes/manoarecipes/network):: ![][(images/Graph.png)](https://github.com/manoarecipes/manoarecipes/network)
 
-The project was deployed through Galaxy and [may be found here](https://galaxy.meteor.com/app/manoarecipes.meteorapp.com):: ![](images/Deployment.png)
+The project was deployed through Galaxy and [may be found here](https://galaxy.meteor.com/app/manoarecipes.meteorapp.com):: ![][(images/Deployment.png)](https://galaxy.meteor.com/app/manoarecipes.meteorapp.com)
 
 ## Milestone 2: Connecting the data
 
