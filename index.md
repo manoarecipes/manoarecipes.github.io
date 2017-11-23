@@ -44,11 +44,16 @@ The goal of Milestone 1 was to create mockups of the core pages of the project, 
 
 Mockups for the following five pages were implemented during M1:
 
-<img width="200px" src="images/LandingPage.png"/>[Landing Page](http://manoarecipes.meteorapp.com/)
-<img width="200px" src="images/ProfilePage.png"/>[Profile Page](http://manoarecipes.meteorapp.com/mserai/profile)
-<img width="200px" src="images/EditProfile.png"/>[Edit Profile](http://manoarecipes.meteorapp.com/mserai/edit-profile)
-<img width="200px" src="images/RecipeDirectory.png"/>[Recipe Directory](http://manoarecipes.meteorapp.com/mserai/recipe-directory)
-<img width="200px" src="images/AddRecipe.png"/>[Add Recipe Page](http://manoarecipes.meteorapp.com/mserai/add-recipe)
+[Landing Page](http://manoarecipes.meteorapp.com/)
+<img width="200px" src="images/LandingPage.png"/>
+[Profile Page](http://manoarecipes.meteorapp.com/mserai/profile)
+<img width="200px" src="images/ProfilePage.png"/>
+[Edit Profile](http://manoarecipes.meteorapp.com/mserai/edit-profile)
+<img width="200px" src="images/EditProfile.png"/>
+[Recipe Directory](http://manoarecipes.meteorapp.com/mserai/recipe-directory)
+<img width="200px" src="images/RecipeDirectory.png"/>
+[Add Recipe Page](http://manoarecipes.meteorapp.com/mserai/add-recipe)
+<img width="200px" src="images/AddRecipe.png"/>
 
 Milestone 1 was implemented as [Manoa Recipes Milestone M1](https://github.com/manoarecipes/manoarecipes/milestone/1)::
 ![](images/M1-ThreeColumn.png)
