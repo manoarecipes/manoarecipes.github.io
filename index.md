@@ -44,11 +44,11 @@ The goal of Milestone 1 was to create mockups of the core pages of the project, 
 
 Mockups for the following five pages were implemented during M1:
 
-<img width="200px" src="images/LandingPage.png"/>
-<img width="200px" src="images/ProfilePage.png"/>
-<img width="200px" src="images/EditProfile.png"/>
-<img width="200px" src="images/RecipeDirectory.png"/>
-<img width="200px" src="images/AddRecipe.png"/>
+[<img width="200px" src="images/LandingPage.png"/>](http://manoarecipes.meteorapp.com/)
+[<img width="200px" src="images/ProfilePage.png"/>](http://manoarecipes.meteorapp.com/mserai/profile)
+[<img width="200px" src="images/EditProfile.png"/>](http://manoarecipes.meteorapp.com/mserai/edit-profile)
+[<img width="200px" src="images/RecipeDirectory.png"/>](http://manoarecipes.meteorapp.com/mserai/recipe-directory)
+[<img width="200px" src="images/AddRecipe.png"/>](http://manoarecipes.meteorapp.com/mserai/add-recipe)
 
 Milestone 1 was implemented as [Manoa Recipes Milestone M1](https://github.com/manoarecipes/manoarecipes/milestone/1)::
 ![](images/M1-ThreeColumn.png)
