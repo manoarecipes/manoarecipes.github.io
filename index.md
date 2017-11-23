@@ -10,6 +10,7 @@ title: Manoa Recipes
   * [Goals](#goals)
 * [Development History](#development-history)
   * [Week 1:Website Development](#week-1-website-development)
+  * [Milestone 1:Mockup development, research, and learn meteor
 
 # About Manoa Recipes
 
@@ -33,3 +34,29 @@ We created a Github organization to host our code and attached our website repos
 <img width="200px" src="images/recipe-profile.png"/>
 <img width="200px" src="images/recipe-directory.png"/>
 <img width="200px" src="images/create-recipe.png"/>
+
+## Milestone 1: Mockups and Collections
+
+This milestone started on November 10, 2017 and ended on November 22, 2017
+
+The goal of Milestone 1 was to create mockups of the core pages of the project, and if there was time, to start working on creating the collections.
+
+Mockups for the following five pages were implemented during M1:
+
+<img width="200px" src="images/LandingPage.png"/>
+<img width="200px" src="images/ProfilePage.png"/>
+<img width="200px" src="images/EditProfile.png"/>
+<img width="200px" src="images/RecipeDirectory.png"/>
+<img width="200px" src="images/create-recipe.png"/>
+
+Milestone 1 was implemented as [Manoa Recipes Milestone M1(https://github.com/manoarecipes/manoarecipes/milestone/1)::
+
+![](images/???)
+
+Each issue was implemented in its own branch, and merged into master when completed:
+
+![](images/???)
+
+## Milestone 2: Connecting the data
+
+This milestone started on November 22, 2017
