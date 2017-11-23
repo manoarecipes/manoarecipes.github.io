@@ -1,7 +1,3 @@
----
-title: Manoa Recipes
----
-
 # Table of contents
 
 * [About Manoa Recipes](#about-manoa-recipes)
@@ -31,3 +27,4 @@ We created a Github organization to host our code and attached our website repos
 <img width="200px" src="images/recipe-profile.png"/>
 <img width="200px" src="images/recipe-directory.png"/>
 <img width="200px" src="images/create-recipe.png"/>
+

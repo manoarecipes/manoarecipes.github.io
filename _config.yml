@@ -1,1 +1,5 @@
+title: Manoa Recipes
+description: A web application for sharing recipes
+google_analytics:
+show_downloads: false
 theme: jekyll-theme-cayman
