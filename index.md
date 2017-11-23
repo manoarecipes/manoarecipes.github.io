@@ -51,7 +51,7 @@ Mockups for the following five pages were implemented during M1:
 <img width="200px" src="images/AddRecipe.png"/>
 
 Milestone 1 was implemented as [Manoa Recipes Milestone M1](https://github.com/manoarecipes/manoarecipes/milestone/1)::
-![](images/MI-ThreeColumn.png)
+![](images/M1-ThreeColumn.png)
 
 The project was deployed through Galaxy and [may be found here](https://galaxy.meteor.com/app/manoarecipes.meteorapp.com)::
 ![](images/Deployment.png)
