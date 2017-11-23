@@ -49,14 +49,10 @@ Mockups for the following five pages were implemented during M1:
 <img width="200px" src="images/RecipeDirectory.png"/>
 <img width="200px" src="images/AddRecipe.png"/>
 
-Milestone 1 was implemented as [Manoa Recipes Milestone M1(https://github.com/manoarecipes/manoarecipes/milestone/1)::
-
-![](images/???)
-
-Each issue was implemented in its own branch, and merged into master when completed:
-
-![](images/???)
+Milestone 1 was implemented as [Manoa Recipes Milestone M1](https://github.com/manoarecipes/manoarecipes/milestone/1)::
 
 ## Milestone 2: Connecting the data
 
 This milestone started on November 22, 2017
+
+Milestone 2 is being implemented as [Manoa Recipes Milestone M2](https://github.com/manoarecipes/manoarecipes/milestone/2)
