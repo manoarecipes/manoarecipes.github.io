@@ -57,10 +57,12 @@ Mockups for the following five pages were implemented during M1:
 
 
 
-[Landing Page](http://manoarecipes.meteorapp.com/),[Profile Page](http://manoarecipes.meteorapp.com/mserai/profile),[Edit Profile](http://manoarecipes.meteorapp.com/mserai/edit-profile),[Recipe Directory](http://manoarecipes.meteorapp.com/mserai/recipe-directory),[Add Recipe Page](http://manoarecipes.meteorapp.com/mserai/add-recipe)
+[Landing Page](http://manoarecipes.meteorapp.com/), [Profile Page](http://manoarecipes.meteorapp.com/mserai/profile), [Edit Profile](http://manoarecipes.meteorapp.com/mserai/edit-profile), [Recipe Directory](http://manoarecipes.meteorapp.com/mserai/recipe-directory),  [Add Recipe Page](http://manoarecipes.meteorapp.com/mserai/add-recipe)
 
 Milestone 1 was implemented as [Manoa Recipes Milestone M1](https://github.com/manoarecipes/manoarecipes/milestone/1)::
 ![](images/M1-ThreeColumn.png)
+
+Milestone 1 was implemented as [Manoa Recipes Milestone M1](https://github.com/manoarecipes/manoarecipes/milestone/1)::
 
 The project was deployed through Galaxy and [may be found here](https://galaxy.meteor.com/app/manoarecipes.meteorapp.com)::
 ![](images/Deployment.png)
