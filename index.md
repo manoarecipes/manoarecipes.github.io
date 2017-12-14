@@ -7,6 +7,7 @@ title: Manoa Recipes
 # Table of contents
 
 * [About Manoa Recipes](#about-manoa-recipes)
+  * [Installation](#installation)
   * [Goals](#goals)
 * [Development History](#development-history)
   * [Week 1:Website Development](#week-1-website-development)
@@ -16,7 +17,53 @@ title: Manoa Recipes
 
 # About Manoa Recipes
 
-Manoa Recipes is a Meteor application providing recipes for the University of Hawaii community.
+Manoa Recipes is a Meteor application providing recipes for the University of Hawaii community. In the application, users can search recipes by ingredient, add recipes to the database, save recipes to their profile, and view local grocery ads.
+
+When the site is first accessed, even before they log in, users may filter through ingredients to view recipes that fit their cravings:
+
+As a non-logged-in guest, users may still access several application features, including the recipe database and the weekly ads. Manoa Recipes utilizes UH Manoa's Central Authentication System (CAS) to allow access to those with UH login credentials:
+
+
+Once logged in, the user is taken to their profile page, which at first will be mostly empty:
+
+
+The user can update their profile to better represent themselves:
+
+
+They can browse through the entire database of recipes:
+
+
+Once logged in, users can favorite recipes by clicking the star on any card. These recipes will appear on their profile page:
+
+Clicking on the recipe photo will bring the user to the recipe's display page:
+
+Users can also populate the database with their own recipes:
+
+Once the recipes are in the system, they will appear on the user's profile page, and may be edited or deleted only by those users:
+
+
+Or they can access the weekly ads, which will be updated weekly by our admins:
+
+# Installation
+
+First, [install Meteor](https://www.meteor.com/install).
+
+Second, [download a copy of Manoa Recipes](https://github.com/manoarecipes/manoarecipes/archive/master.zip), or [clone it using git](x-github-client://openRepo/https://github.com/manoarecipes/manoarecipes).
+  
+Third, cd into the app/ directory and install libraries with:
+
+```
+$ meteor npm install
+```
+
+Fourth, run the system with:
+
+```
+$ meteor npm run start
+```
+
+If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000). If you have an account on the UH test CAS server, you can login.  
+
 
 ## Goals
 
