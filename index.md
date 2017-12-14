@@ -32,10 +32,10 @@ The following sections document the history of Manoa Recipes.
 
 We created a Github organization to host our code and attached our website repository. As a group, we decided the basic functionality of our application and developed the following mockups:
 
-<img width="200px" src="images/landing-page.png"/>
-<img width="200px" src="images/recipe-profile.png"/>
-<img width="200px" src="images/recipe-directory.png"/>
-<img width="200px" src="images/create-recipe.png"/>
+<img src="images/landing-page.png"/>
+<img src="images/recipe-profile.png"/>
+<img src="images/recipe-directory.png"/>
+<img src="images/create-recipe.png"/>
 
 ## Milestone 1: Mockups and Collections
 
