@@ -14,6 +14,7 @@ title: Manoa Recipes
   * [Milestone 1: Mockups and Collections](#milestone-1-mockups-and-collections)
   * [Milestone 2: Connecting the Data](#milestone-2-connecting-the-data)
 * [Deployment to Galaxy](#deployment-to-galaxy)
+  * [Click to go to Deployed App](http://manoarecipes.meteorapp.com)
 
 # About Manoa Recipes
 
