@@ -308,7 +308,15 @@ This milestone started on November 22, 2017
 
 Milestone 2 is being implemented as [Manoa Recipes Milestone M2](https://github.com/manoarecipes/manoarecipes/milestone/2)
 
+![](images/m2-project.png)
 
+Milestone 2 consisted of 20 issues, and progress was managed via the [Manoa Recipes GitHub Project M2](https://github.com/manoarecipes/manoarecipes/milestone/2?closed=1):
+
+![](images/m2-milestone.png)
+
+Each issue was implemented in its own branch, and merged into master when completed:
+
+![](images/m2-commits.png)
 
 # Deployment to Galaxy
 The project was deployed through Galaxy and [may be found here](https://manoarecipes.meteorapp.com):: ![](images/Deployment.png)
