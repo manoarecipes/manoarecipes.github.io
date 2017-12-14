@@ -12,7 +12,7 @@ title: Manoa Recipes
   * [Week 1:Website Development](#week-1-website-development)
   * [Milestone 1: Mockups and Collections](#milestone-1-mockups-and-collections)
   * [Milestone 2: Connecting the Data](#milestone-2-connecting-the-data)
-* [Deployment to Galaxy](#deployment)
+* [Deployment to Galaxy](#deployment-to-galaxy)
 
 # About Manoa Recipes
 
