@@ -62,7 +62,7 @@ Milestone 1 was implemented as [Manoa Recipes Milestone M1](https://github.com/m
 
 Milestone 1 was implemented through Issue Driven Project Management [Manoa Recipes Network Graph](https://github.com/manoarecipes/manoarecipes/network):: ![](images/Graph.png)
 
-The project was deployed through Galaxy and [may be found here](https://galaxy.meteor.com/app/manoarecipes.meteorapp.com):: ![](images/Deployment.png)
+The project was deployed through Galaxy and [may be found here](https://manoarecipes.meteorapp.com):: ![](images/Deployment.png)
 
 ## Milestone 2: Connecting the data
 
