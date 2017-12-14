@@ -69,5 +69,5 @@ This milestone started on November 22, 2017
 
 Milestone 2 is being implemented as [Manoa Recipes Milestone M2](https://github.com/manoarecipes/manoarecipes/milestone/2)
 
-## Deployment to Galaxy
+# Deployment to Galaxy
 The project was deployed through Galaxy and [may be found here](https://manoarecipes.meteorapp.com):: ![](images/Deployment.png)
