@@ -12,6 +12,7 @@ title: Manoa Recipes
   * [Week 1:Website Development](#week-1-website-development)
   * [Milestone 1: Mockups and Collections](#milestone-1-mockups-and-collections)
   * [Milestone 2: Connecting the Data](#milestone-2-connecting-the-data)
+* [Deployment to Galaxy](#deployment)
 
 # About Manoa Recipes
 
@@ -62,10 +63,11 @@ Milestone 1 was implemented as [Manoa Recipes Milestone M1](https://github.com/m
 
 Milestone 1 was implemented through Issue Driven Project Management [Manoa Recipes Network Graph](https://github.com/manoarecipes/manoarecipes/network):: ![](images/Graph.png)
 
-The project was deployed through Galaxy and [may be found here](https://manoarecipes.meteorapp.com):: ![](images/Deployment.png)
-
 ## Milestone 2: Connecting the data
 
 This milestone started on November 22, 2017
 
 Milestone 2 is being implemented as [Manoa Recipes Milestone M2](https://github.com/manoarecipes/manoarecipes/milestone/2)
+
+## Deployment to Galaxy
+The project was deployed through Galaxy and [may be found here](https://manoarecipes.meteorapp.com):: ![](images/Deployment.png)
