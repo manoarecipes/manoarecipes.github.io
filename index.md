@@ -20,29 +20,34 @@ title: Manoa Recipes
 Manoa Recipes is a Meteor application providing recipes for the University of Hawaii community. In the application, users can search recipes by ingredient, add recipes to the database, save recipes to their profile, and view local grocery ads.
 
 When the site is first accessed, even before they log in, users may filter through ingredients to view recipes that fit their cravings:
+![](images/landing-page.png)
 
 As a non-logged-in guest, users may still access several application features, including the recipe database and the weekly ads. Manoa Recipes utilizes UH Manoa's Central Authentication System (CAS) to allow access to those with UH login credentials:
-
+![](images/CAS-login.png)
 
 Once logged in, the user is taken to their profile page, which at first will be mostly empty:
-
+![](images/empty-profile.png)
 
 The user can update their profile to better represent themselves:
-
+![](images/edit-profile.png)
 
 They can browse through the entire database of recipes:
-
+![](images/recipe-database.png)
 
 Once logged in, users can favorite recipes by clicking the star on any card. These recipes will appear on their profile page:
+![](images/favorited-recipes.png)
 
 Clicking on the recipe photo will bring the user to the recipe's display page:
+![](images/recipe-display.png)
 
 Users can also populate the database with their own recipes:
+![](images/add-recipe.png)
 
 Once the recipes are in the system, they will appear on the user's profile page, and may be edited or deleted only by those users:
-
+![](images/my-recipes.png)
 
 Or they can access the weekly ads, which will be updated weekly by our admins:
+![](images/weekly-ad.png)
 
 # Installation
 
